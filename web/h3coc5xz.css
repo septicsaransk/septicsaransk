@@ -1,0 +1,33 @@
+.devoloper_tech { position: fixed; z-index: 999; bottom: 0; width: 100%; min-width: 320px; max-height: 16px; padding: 0 5px 2px 0; font-size: 100%; letter-spacing: 1px; font: 12px/15px clear; color: #fff; background-color: #ff4a0b; text-align: center; }
+.devoloper_tech a { color: #ffffff; }
+
+html, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; outline: 0 !important; }
+
+* { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+
+input[type="submit"], input[type="button"] { -webkit-appearance: none; cursor: pointer; }
+
+ol, ul { list-style: none; margin: 0; padding: 0; }
+
+a, a:hover { text-decoration: none; }
+
+.clear { clear: both; display: block; }
+
+html { height: 100%; }
+
+a, input { cursor: pointer; }
+
+img { max-width: 100%; height: auto; }
+
+address { font-style: normal; }
+
+footer { position: absolute; width: 100%; left: 0; }
+
+.slick-dots { display: flex; position: absolute; bottom: 20px; width: 100%; justify-content: center; }
+.slick-dots li { background-color: #f9f9f9; width: 15px; height: 15px; margin-right: 15px; border-radius: 50%; outline: 0; }
+.slick-dots li:last-child { margin-right: 0; }
+.slick-dots li button { color: #f9f9f9; border: none; background: none; cursor: pointer; outline: 0; position: absolute; }
+.slick-dots .slick-active { background-color: #254b8c; }
+.slick-dots .slick-active button { color: #254b8c; }
+
+/*# sourceMappingURL=default.css.map */

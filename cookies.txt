@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sanigel.ru	TRUE	/	FALSE	1999999999	SESSbdd1a4546d48388279e4125206229ec8	52680062d84377f91c5a6f8bc368a5a3
+
